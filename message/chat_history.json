@@ -1,0 +1,40 @@
+[
+  {
+    "type": "text",
+    "sender": "user",
+    "username": ".",
+    "chat_id": 6927254086,
+    "timestamp": "2024-11-26T18:54:11.277364",
+    "content": "store me messagae\nplease\ud83d\ude4a"
+  },
+  {
+    "type": "text",
+    "sender": "bot",
+    "chat_id": 6927254086,
+    "timestamp": "2024-11-26T18:54:12.270246",
+    "content": "Received your text message: store me messagae\nplease\ud83d\ude4a"
+  },
+  {
+    "type": "photo",
+    "sender": "user",
+    "username": ".",
+    "chat_id": 6927254086,
+    "timestamp": "2024-11-26T18:54:34.612626",
+    "file_path": "data/photo/20241126_185436.jpg",
+    "caption": ""
+  },
+  {
+    "type": "text",
+    "sender": "bot",
+    "chat_id": 6927254086,
+    "timestamp": "2024-11-26T18:54:37.543452",
+    "content": "Received your photo! Saved as 20241126_185436.jpg"
+  },
+  {
+    "type": "text",
+    "sender": "bot",
+    "chat_id": 6927254086,
+    "timestamp": "2024-11-26T18:57:26.424969",
+    "content": "Chat History:\n[\n  {\n    \"type\": \"text\",\n    \"username\": null,\n    \"chat_id\": 6927254086,\n    \"timestamp\": \"2024-11-26T18:50:19.911353\",\n    \"content\": \"hello\"\n  },\n  {\n    \"type\": \"text\",\n    \"sender\": \"user\",\n    \"username\": \".\",\n    \"chat_id\": 6927254086,\n    \"timestamp\": \"2024-11-26T18:54:11.277364\",\n    \"content\": \"store me messagae\\nplease\\ud83d\\ude4a\"\n  },\n  {\n    \"type\": \"text\",\n    \"sender\": \"bot\",\n    \"chat_id\": 6927254086,\n    \"timestamp\": \"2024-11-26T18:54:12.270246\",\n    \"content\": \"Received your text message: store me messagae\\nplease\\ud83d\\ude4a\"\n  },\n  {\n    \"type\": \"photo\",\n    \"sender\": \"user\",\n    \"username\": \".\",\n    \"chat_id\": 6927254086,\n    \"timestamp\": \"2024-11-26T18:54:34.612626\",\n    \"file_path\": \"data/photo/20241126_185436.jpg\",\n    \"caption\": \"\"\n  },\n  {\n    \"type\": \"text\",\n    \"sender\": \"bot\",\n    \"chat_id\": 6927254086,\n    \"timestamp\": \"2024-11-26T18:54:37.543452\",\n    \"content\": \"Received your photo! Saved as 20241126_185436.jpg\"\n  }\n]"
+  }
+]
